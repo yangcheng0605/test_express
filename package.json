@@ -36,7 +36,7 @@
     "eslint": "eslint src/**/*.*"
   },
   "name": "yc_test_express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "author": "Tank_yc",
   "license": "ISC",
   "description": "a project using express + routing-controllers + typeorm."
